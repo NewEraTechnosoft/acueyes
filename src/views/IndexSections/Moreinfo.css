@@ -1,0 +1,19 @@
+.bookMark{
+    border-color: #ffa104  !important;
+    color: #ffa104 !important;
+}
+
+.ppcNo{
+    color: #ff9225;
+    font-size: 15px;
+    font-weight: 500;
+    margin-right: 4px;
+}
+
+.headerFont{
+    font-size: 33px !important;
+}
+
+.headerNo{
+    color: #ffa50063  !important;
+}

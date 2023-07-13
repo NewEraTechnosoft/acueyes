@@ -1,0 +1,22 @@
+.squareColor{
+    background: linear-gradient(0deg, #ff8d00 0%, #ffc700f5 100%) !important;
+}
+
+.bookTitle{
+    color: white !important;
+    font-size: 30px !important;
+    text-align: center !important;
+    justify-content: center !important;
+}
+
+.cardHeader{
+    padding-bottom: 10px !important;
+    margin-top: 30px !important;
+}
+.submitBtn{
+    background-image: linear-gradient(to bottom left, #e14eca, #f59754, #e14eca) !important;
+}
+
+.submitBtn:hover{
+    background-image: linear-gradient(to bottom left, #e14eca, #f59754, #e14eca) !important;
+}
