@@ -54,7 +54,7 @@ export default function AboutUs() {
                 <CardBody>
                   <div className="justify-content-center">
                     <div className="numbers">
-                      <CardTitle tag="p">10 425</CardTitle>
+                      <CardTitle tag="p">65+</CardTitle>
                       <p className="card-category text-white">Business</p>
                     </div>
                   </div>
@@ -110,7 +110,7 @@ export default function AboutUs() {
                         <i className="tim-icons icon-single-02" />
                       </div>
                       <div className="ml-3">
-                        <h6>10,425 Business</h6>
+                        <h6>65+ Business</h6>
                       </div>
                     </div>
                   </li>

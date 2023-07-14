@@ -56,7 +56,7 @@ export default function PageHeader() {
           </h4>
         </div>
 
-          <a href="#moreInfo">
+          <a href="#about">
               <div className="scroll-downs">
                   <div className="mousey">
                       <div className="scroller"></div>
